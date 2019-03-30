@@ -64,6 +64,8 @@ public class MainActivity extends AppCompatActivity {
     private String mUsername;
 
 
+
+
     // Firebase instance variables
     private FirebaseDatabase mFirebaseDatabase;
     private DatabaseReference mMessagesDatabaseReference;
